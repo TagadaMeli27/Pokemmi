@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Putois",
+        "trait": "Pollueur",
+        "attack": 50,
+        "specialAttack": 70,
+        "speed": 70,
+        "defense": 60,
+        "specialDefense": 70,
+        "hp": 60,
+        "lvl": 5,
+        "types": [
+            "fire"
+        ],
+        "attacks": [
+            {
+                "title": "Pet-flammes",
+                "path": "assets/images/attacks/fire/pet_flammes.png"
+            },
+            {
+                "title": "Feu follet",
+                "path": "assets/images/attacks/fire/feu_follet.png"
+            },
+            {
+                "title": "Intoxication",
+                "path": "assets/images/attacks/nature/intoxication.png"
+            }
+        ],
+        "sprite": "assets/images/monstre1.png"
+    },
+    {
+        "name": "Démeauni",
+        "trait": "Démoniaque",
+        "attack": 90,
+        "specialAttack": 40,
+        "speed": 70,
+        "defense": 60,
+        "specialDefense": 30,
+        "hp": 70,
+        "lvl": 5,
+        "types": [
+            "water"
+        ],
+        "attacks": [
+            {
+                "title": "Inondation",
+                "path": "assets/images/attacks/water/inondation.png"
+            },
+            {
+                "title": "Aquaplaning",
+                "path": "assets/images/attacks/water/aquaplaning.png"
+            },
+            {
+                "title": "Torpeur",
+                "path": "assets/images/attacks/darkness/torpeur.png"
+            }
+        ],
+        "sprite": "assets/images/monstre2.png"
+    },
+    {
+        "name": "Hippogriffe",
+        "trait": "Concentré",
+        "attack": 50,
+        "specialAttack": 90,
+        "speed": 80,
+        "defense": 60,
+        "specialDefense": 60,
+        "hp": 80,
+        "lvl": 5,
+        "types": [
+            "earth",
+            "air"
+        ],
+        "attacks": [
+            {
+                "title": "Géosphère",
+                "path": "assets/images/attacks/earth/geosphere.png"
+            },
+            {
+                "title": "Aerocanon",
+                "path": "assets/images/attacks/air/aerocanon.png"
+            },
+            {
+                "title": "Souffle",
+                "path": "assets/images/attacks/dragon/souffle.png"
+            }
+        ],
+        "sprite": "assets/images/monstre3.png"
+    },
+    {
+        "name": "Wodan",
+        "trait": "Fier",
+        "attack": 100,
+        "specialAttack": 90,
+        "speed": 120,
+        "defense": 70,
+        "specialDefense": 80,
+        "hp": 90,
+        "lvl": 5,
+        "types": [
+            "light"
+        ],
+        "attacks": [
+            {
+                "title": "Photocharge",
+                "path": "assets/images/attacks/light/photocharge.png"
+            },
+            {
+                "title": "Escarmouche",
+                "path": "assets/images/attacks/metal/escarmouche.png"
+            },
+            {
+                "title": "Ruée",
+                "path": "assets/images/attacks/nature/ruee.png"
+            }
+        ],
+        "sprite": "assets/images/monstre4.png"
+    }
+]

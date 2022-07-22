@@ -1,0 +1,26 @@
+{
+    "top": [
+        {
+            "title": "GameScene",
+            "key": "sidebar_game",
+            "assets": "assets/images/menu.svg"
+        },
+        {
+            "title": "TeamScene",
+            "key": "sidebar_team",
+            "assets": "assets/images/team.svg"
+        },
+        {
+            "title": "Inventory",
+            "key": "sidebar_inventory",
+            "assets": "assets/images/inventory.svg"
+        }
+    ],
+    "bottom": [
+        {
+            "title": "Settings",
+            "key": "sidebar_settings",
+            "assets": "assets/images/settings.svg"
+        }
+    ]
+}

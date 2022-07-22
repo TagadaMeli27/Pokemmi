@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Wodan",
+        "base_hp": 100,
+        "base_lvl": 5,
+        "types": [
+            "ligth"
+        ],
+        "attacks": [
+            "Rayon",
+            "Laser"
+        ],
+        "sprite": "assets/images/coucou.png"
+    },
+    {
+        "name": "Phénix",
+        "base_hp": 120,
+        "base_lvl": 5,
+        "types": [
+            "ligth",
+            "fire"
+        ],
+        "attacks": [
+            "Rayon",
+            "Laser"
+        ],
+        "sprite": "assets/images/coucou.png"
+    },
+    {
+        "name": "Hivern",
+        "base_hp": 90,
+        "base_lvl": 5,
+        "types": [
+            "dragon",
+            "water"
+        ],
+        "attacks": [
+            "Rayon",
+            "Laser"
+        ],
+        "sprite": "assets/images/coucou.png"
+    },
+    {
+        "name": "Drakarnage",
+        "base_hp": 100,
+        "base_lvl": 5,
+        "types": [
+            "dragon"
+        ],
+        "attacks": [
+            "Rayon",
+            "Laser"
+        ],
+        "sprite": "assets/images/coucou.png"
+    },
+    {
+        "name": "Serpent",
+        "base_hp": 70,
+        "base_lvl": 5,
+        "types": [
+            "fire"
+        ],
+        "attacks": [
+            "Rayon",
+            "Laser"
+        ],
+        "sprite": "assets/images/coucou.png"
+    },
+    {
+        "name": "Taureau blindé",
+        "base_hp": 70,
+        "base_lvl": 5,
+        "types": [
+            "earth",
+            "metal"
+        ],
+        "attacks": [
+            "Rayon",
+            "Laser"
+        ],
+        "sprite": "assets/images/coucou.png"
+    },
+    {
+        "name": "Panda roux",
+        "base_hp": 70,
+        "base_lvl": 5,
+        "types": [
+            "earth"
+        ],
+        "attacks": [
+            "Rayon",
+            "Laser"
+        ],
+        "sprite": "assets/images/coucou.png"
+    },
+    {
+        "name": "Faucon",
+        "base_hp": 70,
+        "base_lvl": 5,
+        "types": [
+            "air"
+        ],
+        "attacks": [
+            "Rayon",
+            "Laser"
+        ],
+        "sprite": "assets/images/coucou.png"
+    },
+    {
+        "name": "Vampyro",
+        "base_hp": 70,
+        "base_lvl": 5,
+        "types": [
+            "fire",
+            "darkness"
+        ],
+        "attacks": [
+            "Rayon",
+            "Laser"
+        ],
+        "sprite": "assets/images/coucou.png"
+    }
+]
